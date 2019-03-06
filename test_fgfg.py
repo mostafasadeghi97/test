@@ -4,5 +4,5 @@ def test_sum():
 def test_sum_tuple():
     assert sum((1, 2, 2)) == 5, "Should be 6"
 
-def test_sum_tuple():
+def test_sum_tuple22():
     assert sum((1, 2, 2)) == 5, "Should be 6"
